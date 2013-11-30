@@ -1,3 +1,9 @@
+This is a private development fork of
+https://github.com/pushyrpc/pushy
+
+You should never need to get this version.
+Please use te official version instead.
+
 # What?
 
 Pushy is an RPC (Remote Procedure Call) package for Python and Java. The key feature of Pushy is that it only requires
